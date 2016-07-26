@@ -1,0 +1,74 @@
+{
+  "_args": [
+    [
+      "unicode-loader",
+      "E:\\work\\kiln\\SpreadJS\\Common"
+    ],
+    [
+      "unicode-loader",
+      "E:\\work\\kiln\\SpreadJS\\Sheets\\Source"
+    ]
+  ],
+  "_from": "unicode-loader@*",
+  "_id": "unicode-loader@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/unicode-loader",
+  "_nodeVersion": "5.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/unicode-loader-1.0.0.tgz_1468480586707_0.7117909404914826"
+  },
+  "_npmUser": {
+    "email": "yinhaibo21@gmail.com",
+    "name": "benyin"
+  },
+  "_npmVersion": "3.3.12",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "unicode-loader",
+    "raw": "unicode-loader",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "*",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_shrinkwrap": null,
+  "_spec": "unicode-loader",
+  "_where": "E:\\work\\kiln\\SpreadJS\\Sheets\\Source",
+  "author": {
+    "name": "Yin Haibo"
+  },
+  "dependencies": {
+    "loader-utils": "^0.2.7"
+  },
+  "description": "Unicode loader for webpack",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "000bb1c4dd41b9c51c4e437e311da9f69521dcf3",
+    "tarball": "https://registry.npmjs.org/unicode-loader/-/unicode-loader-1.0.0.tgz"
+  },
+  "keywords": [
+    "loader",
+    "webpack"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "yinhaibo",
+      "email": "yinhaibo21@gmail.com"
+    }
+  ],
+  "name": "unicode-loader",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
