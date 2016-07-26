@@ -10,7 +10,6 @@
     ]
   ],
   "_from": "unicode-loader@*",
-  "_id": "unicode-loader@1.0.0",
   "_inCache": true,
   "_installable": true,
   "_location": "/unicode-loader",
@@ -39,9 +38,7 @@
   "_shrinkwrap": null,
   "_spec": "unicode-loader",
   "_where": "E:\\work\\kiln\\SpreadJS\\Sheets\\Source",
-  "author": {
-    "name": "Yin Haibo"
-  },
+  "author": "Yin Haibo",
   "dependencies": {
     "loader-utils": "^0.2.7"
   },
@@ -59,16 +56,20 @@
   "license": "MIT",
   "main": "index.js",
   "maintainers": [
-    {
-      "name": "yinhaibo",
-      "email": "yinhaibo21@gmail.com"
-    }
+    "yinhaibo <yinhaibo21@gmail.com>"
   ],
   "name": "unicode-loader",
   "optionalDependencies": {},
-  "readme": "ERROR: No README data found!",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.4"
+  "version": "1.0.4",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yinhaibo01/unicode-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yinhaibo01/unicode-loader/issues"
+  },
+  "homepage": "https://github.com/yinhaibo01/unicode-loader#readme"
 }
