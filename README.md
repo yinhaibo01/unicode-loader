@@ -4,10 +4,8 @@ Unicode loader for webpack.
 Convert all the string in javascript file into unicode.
 
 # Install
-### project
 `npm install unicode-loader --save-dev`
-### global
-`npm install unicode-loader -g`
+
 
 # Example
 ```json
