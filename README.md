@@ -23,5 +23,8 @@ var mNames = ['一月', '二月', '三月', '四月', '五月', '六月', '七�
 ### After webpack
 var mNames = ['\u4e00\u6708', '\u4e8c\u6708', '\u4e09\u6708', '\u56db\u6708', '\u4e94\u6708', '\u516d\u6708', '\u4e03\u6708', '\u516b\u6708', '\u4e5d\u6708', '\u5341\u6708', '\u5341\u4e00\u6708', '\u5341\u4e8c\u6708', ''];
 
+# Attention
+This loader should be placed at **last** of your many loaders, for that the unicode will be replace by word after other loaders.
+
 # Developer
 * Ben Yin ( yinhaibo21@gmail.com )
